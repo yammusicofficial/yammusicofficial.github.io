@@ -1,0 +1,195 @@
+ #navbar { 
+    flex-direction: column;
+    position: relative;
+}
+
+#navbar ul li a{
+    font-size: 1rem;
+    padding: 5px 15px;
+    padding-bottom: 8px;
+    text-align: center;
+}
+/* Home section */
+#home{
+    position: relative;
+margin-top: 145px;
+}
+
+.h-primary{
+    font-size: 34px;
+    width: 234px;
+    height: 70px;
+padding-top: 50px;
+left: 16px;
+position: relative;
+text-align: center;
+}
+/* 
+.hp{
+    left: 50px;
+position: relative;
+} */
+.hp img{
+    height: 50%;
+width: 86%;
+top: -50px;
+}
+
+.hp p{
+    font-size: 20px;
+    left: 15px;
+    position: relative;
+    text-align: center;
+}
+
+#stream{
+    left: 62px;
+    position: relative;
+}
+#stream a img{
+    height: auto;
+width: 100%;
+padding: 2px;
+}
+
+
+.StreamingPlat{
+    padding: 12px;
+    width: 40px;
+    height: 0px;
+}
+
+#works{
+margin: 0px;
+}
+
+#works p{
+font-size: 20px;
+z-index: 1;
+}
+
+.songs a img{
+    position: sticky;
+    z-index: 1;
+    right: 165px;
+}
+
+#eps{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+#eps img{
+    width: 100%;
+    height: 100%;
+}
+
+#posters{
+    flex-direction: column;
+}
+
+#posters img{
+    position: relative;
+    top: 500px;
+}
+.songs img{
+    position: relative;
+    z-index: -1;
+}
+
+#btn{
+    position: relative;
+    top: 1000px;
+    
+}
+#btn a{
+    font-size: 28px;
+}
+#SupportTeam{    
+    position: relative;
+    top: 1069px;
+    
+}
+#SupportTeam p{    
+    font-size: 20px;
+}
+#SupportTeam h1{
+    width: 369px;
+}    
+
+#supp{
+    padding: 12px;
+    width: 40px;
+    height: 0px;
+    
+}
+
+.icons a img{
+    position: sticky;
+    z-index: 1;
+    right: 165px;   
+}
+
+#contact{
+    position: absolute;
+}
+
+#team{
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    align-items: center;
+    justify-content: center;
+    left: 40px;
+}
+
+#team a img{
+    padding: 0px;
+height: 300px;
+width: auto;
+margin-top: -55px;
+}
+
+
+#contact{
+    position: relative;
+top: 2227px;
+margin: 0px;
+}
+
+#contact h1{
+    width: auto;
+}
+
+#contact p{
+font-size: 20px;
+}
+
+#cont{
+    width: auto;
+    padding: 130px 0px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.socMed{
+    width: auto;
+    height: auto;
+    padding: 8px;
+}
+#cont img {
+    width: 75px;
+height: 80px;
+}
+
+footer{
+    position: relative;
+    top: 2200px;
+
+}
+ 
+
+footer p{
+    font-size: 15px;
+}
